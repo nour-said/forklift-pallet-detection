@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+runs/
+results/
+predictions/
+roboflow_data/
+merged_dataset/
+weights/last.pt
+*.zip
